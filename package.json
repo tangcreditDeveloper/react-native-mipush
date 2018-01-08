@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-mipush@^0.2.0",
+  "_id": "react-native-mipush@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-f0LU4h8Rquej4uHQIfQtCcXgdQY=",
+  "_location": "/react-native-mipush",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-mipush@^0.2.0",
+    "name": "react-native-mipush",
+    "escapedName": "react-native-mipush",
+    "rawSpec": "^0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-mipush/download/react-native-mipush-0.2.0.tgz",
+  "_shasum": "7f42d4e21f11aae7a3e2e1d021f42d09c5e07506",
+  "_spec": "react-native-mipush@^0.2.0",
+  "_where": "/Users/cherry/Desktop/HaiNongBao",
+  "author": {
+    "name": "Li Jie",
+    "email": "cpunion@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cpunion/react-native-mipush/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "小米 Push 的 React Native 封装。",
+  "homepage": "https://github.com/cpunion/react-native-mipush#readme",
+  "keywords": [
+    "react-native",
+    "xiaomi",
+    "mipush",
+    "push"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-mipush",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpunion/react-native-mipush.git"
+  },
+  "rnpm": {
+    "android": {
+      "packageInstance": "new MiPush(this)"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}
